@@ -18,5 +18,5 @@ You like Python and hate clutter
 ## 🚀 How to Run It
 
 ```bash
-git clone https://github.com/ransomww329/port-scanner](https://github.com/ransomww329/port-scanner.git
+git clone https://github.com/ransomww329/port-scanner
 python3 port_scanner.py
