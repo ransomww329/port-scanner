@@ -15,7 +15,7 @@ Just wanna poke around IPs with a GUI
 You like Python and hate clutter
 
 
-## 🚀 How to Run It
+## How to Run It
 
 ```bash
 git clone https://github.com/ransomww329/port-scanner
